@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239261160610",
+    "firebase_url": "https://patm1-cd600.firebaseio.com",
+    "project_id": "patm1-cd600",
+    "storage_bucket": "patm1-cd600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239261160610:android:c9dc3e3a565dcd33e1b3fb",
+        "android_client_info": {
+          "package_name": "com.example.practica5_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239261160610-pav492jq04t0gkaqjtq0rg8cq9mdru0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-5vTKhqiLo6e1MlVN-wWhgTLj7R5pakk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239261160610-pav492jq04t0gkaqjtq0rg8cq9mdru0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
